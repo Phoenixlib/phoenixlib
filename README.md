@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Pablo Puentes
 
-### 🔎 Quality Assurance Engineer | [TU ROL ACTUAL]
+### 🔎 Quality Assurance Engineer
 
 ---
 
