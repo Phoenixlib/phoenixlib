@@ -16,9 +16,9 @@ Aquí se destacan las herramientas y metodologías con las que trabajo:
 | :--- | :--- |
 | **Metodología y Fundamentos QA** | Análisis de Requisitos (Funcionales y No Funcionales), Diseño de Pruebas (Técnicas de Caja Negra), Reporte de Defectos (*Bug Tracking*), Pruebas Exploratorias. |
 | **Tipos de Pruebas** | Funcionales, de Regresión, **Compatibilidad** (Cross-Browser/Platform), **Usabilidad (UI/UX)**, Localización. |
-| **Automatización** | [Selenium, Cypress, Playwright, XCUITest, etc.] |
-| **Lenguajes de Programación** | [Python, Java, JavaScript, SQL, etc.] |
-| **Gestión y Herramientas** | [Jira, Azure DevOps, TestRail, Postman, Fiddler, DevTools] |
+| **Automatización** | [Selenium] |
+| **Lenguajes de Programación** | [Python, PostgreSQL.] |
+| **Gestión y Herramientas** | [Jira, Postman, DevTools] |
 
 ## 🧠 Mi Enfoque como QA Master
 
