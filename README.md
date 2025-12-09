@@ -20,7 +20,7 @@ Aquí se destacan las herramientas y metodologías con las que trabajo:
 | **Lenguajes de Programación** | [Python, PostgreSQL.] |
 | **Gestión y Herramientas** | [Jira, Postman, DevTools] |
 
-## 🧠 Mi Enfoque como QA Master
+## 🧠 Mi Enfoque como QA Engineer
 
 Basado en las mejores prácticas, mi proceso se centra en el pensamiento crítico y estructurado:
 
