@@ -1,41 +1,57 @@
-# 👋 ¡Hola! Soy Pablo Puentes
+# ¡Hola! Soy Pablo Puentes 👋 
 
-### 🔎 Quality Assurance Engineer
+### AI Product Engineer | Vibe Coding Specialist | Full-Stack Developer | QA Engineer
 
----
-
-Soy un apasionado de la **Ingeniería de Calidad de Software (QA)**, dedicado a garantizar la excelencia, estabilidad y experiencia de usuario en cada producto. Mi enfoque va más allá de encontrar *bugs*; me concentro en **prevenirlos** desde las etapas iniciales, entendiendo a profundidad los requisitos y la arquitectura de la aplicación.
-
-**Mi misión:** Transformar las especificaciones en software robusto y confiable.
-
-## 🛠️ Stack de Habilidades Técnicas (QA y Desarrollo)
-
-Aquí se destacan las herramientas y metodologías con las que trabajo:
-
-| Categoría | Habilidades Clave |
-| :--- | :--- |
-| **Metodología y Fundamentos QA** | Análisis de Requisitos (Funcionales y No Funcionales), Diseño de Pruebas (Técnicas de Caja Negra), Reporte de Defectos (*Bug Tracking*), Pruebas Exploratorias. |
-| **Tipos de Pruebas** | Funcionales, de Regresión, **Compatibilidad** (Cross-Browser/Platform), **Usabilidad (UI/UX)**, Localización. |
-| **Automatización** | [Selenium] |
-| **Lenguajes de Programación** | [Python, PostgreSQL.] |
-| **Gestión y Herramientas** | [Jira, Postman, DevTools] |
-
-## 🧠 Mi Enfoque como QA Engineer
-
-Basado en las mejores prácticas, mi proceso se centra en el pensamiento crítico y estructurado:
-
-1.  **Análisis Profundo:** Aplico la técnica de **Descomponer, Visualizar y Buscar Zonas Grises** para asegurar que los requisitos sean atómicos, claros y completos, detectando ambigüedades antes de empezar a codificar.
-2.  **Diseño de Casos de Prueba:** Creo casos de prueba siguiendo la regla **"Un Caso de Prueba = Una Prueba"** para garantizar la trazabilidad y evitar la duplicación de esfuerzos. Utilizo técnicas como **Partición de Equivalencia** y **Análisis de Valores Límite**.
-3.  **Compatibilidad y Experiencia:** Priorizo las pruebas **Cross-Browser y Responsivas**, utilizando **matrices de compatibilidad** para cubrir los entornos más relevantes (Sistemas Operativos, Navegadores y *Viewports* Móviles) y asegurando que el diseño se adapte correctamente (diferenciando entre enfoques Adaptativos y Responsivos).
-4.  **Reporte de Calidad:** Mis informes de error son claros, concisos y **reproducibles**. Siempre incluyen los **Pasos a Seguir**, el **Resultado Esperado vs. Actual**, la **Configuración del Sistema** y una **Severidad** bien justificada.
-
-## 📈 Proyectos y Contribuciones
-
-Puedes explorar mis repositorios para ver como es mi trabajo.
+Apasionado por la intersección entre la Inteligencia Artificial y el desarrollo de productos. Mi enfoque se basa en el **Vibe Coding**: utilizar la orquestación de modelos de IA de última generación para transformar ideas complejas en software funcional, escalable y centrado en el usuario en tiempo récord.
 
 ---
 
-### 📫 Conéctate Conmigo
+## 🚀 Mi Enfoque: Vibe Coding & AI Orchestration
+No solo escribo código; diseño soluciones. Utilizo un stack de herramientas de IA de vanguardia para acelerar el ciclo de desarrollo sin comprometer la calidad:
+* **AI Workflows:** GitHub Copilot, Google Antigravity, Claude Sonnet 4.6, Gemini 3.1 Pro.
+* **Metodología:** Desarrollo asistido por modelos de lenguaje, orquestación de prompts y uso de MCPs (Model Context Protocol).
 
-[LinkedIn] https://www.linkedin.com/in/pablopuenteslib/
-[Email] pablopuentes.lib@gmail.com
+---
+
+## 🛠️ Stack Tecnológico
+* **Frontend:** Next.js 15 (App Router), React, TypeScript, Tailwind CSS, shadcn/ui, Framer Motion.
+* **Backend & Data:** Node.js, tRPC, Prisma ORM, PostgreSQL (Neon), Zod, Effect.
+* **Auth & Services:** NextAuth.js v5, Resend, UploadThing, Webhooks.
+* **QA & Testing:** Automatización de pruebas funcionales y aseguramiento de calidad (QA Manual/Auto).
+
+---
+
+## 📂 Proyectos Destacados
+
+### 🌿 [Puentes de Bienestar]([https://github.com/Phoenixlib](https://github.com/Phoenixlib/puentesdebienestar))
+**Directorio & Banco de Tiempo para Terapeutas.**
+* Arquitectura robusta con **Next.js 15** y **tRPC**.
+* Sistema de intercambio de servicios basado en tiempo.
+* Integración de pagos con **MercadoPago** y **Flow**.
+
+### 🐾 [PetitSalon](https://github.com/Phoenixlib/PetitSalon)
+**CRM & Agendamiento para Peluquería Canina.**
+* Gestión integral de fichas clínicas y clientes.
+* Sistema de reservas mediante **Cal.com** y **Webhooks**.
+* Dashboard administrativo con métricas en tiempo real.
+
+### 🦷 [Odontify]
+**Fintech Health Solution.**
+* Motor dinámico para la creación de presupuestos médicos complejos.
+* Interfaz diseñada y programada íntegramente con flujos de IA.
+
+---
+
+## 🎓 Educación & Certificaciones
+* **Ingeniería en Informática** - INACAP.
+* **QA Engineer Bootcamp** - TripleTen (2025).
+
+---
+
+## 📫 Conectemos
+* **LinkedIn:** https://www.linkedin.com/in/pablopuenteslib
+* **Telefono:** +569 75707476
+* **Email:** pablopuentes.lib@gmail.com
+* **Ubicación:** Santiago, Chile 🇨🇱
+
+*"El software no se trata solo de líneas de código, sino de crear puentes de bienestar para las personas."*
