@@ -23,7 +23,7 @@ No solo escribo código; diseño soluciones. Utilizo un stack de herramientas de
 
 ## 📂 Proyectos Destacados
 
-### 🌿 [Puentes de Bienestar]([https://github.com/Phoenixlib](https://github.com/Phoenixlib/puentesdebienestar))
+### 🌿 [Puentes de Bienestar](https://github.com/Phoenixlib/puentesdebienestar)
 **Directorio & Banco de Tiempo para Terapeutas.**
 * Arquitectura robusta con **Next.js 15** y **tRPC**.
 * Sistema de intercambio de servicios basado en tiempo.
